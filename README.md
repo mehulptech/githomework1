@@ -1,0 +1,1 @@
+Dave tried to git push but forgot to pull first. “Conflicts? What conflicts?” he thought, confidently merging everything. Minutes later, Jenkins screamed, “Build failed!” Dave sighed, “Guess I’ll learn to read error messages… tomorrow.”
